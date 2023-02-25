@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/ovsamarasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ovsamarasinghe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/oshada samarasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oshada samarasinghe" height="30" width="40" /></a>
 <a href="https://instagram.com/oshada_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oshada_s" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/21286957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21286957" height="30" width="40" /></a>
 <a href="https://medium.com/@oshadasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@oshadasa" height="30" width="40" /></a>
 </p>
 
@@ -35,4 +36,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oshadasamarasinghe&show_icons=true&locale=en" alt="oshadasamarasinghe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oshadasamarasinghe&" alt="oshadasamarasinghe" /></p>
-
