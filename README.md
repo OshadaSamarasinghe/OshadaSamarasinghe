@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Oshada Samarasinghe</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">- 🔭 I’m a Software Engineering Undergraduate at Plymouth University UK</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oshadasamarasinghe" alt="oshadasamarasinghe" /></a> </p>
 
