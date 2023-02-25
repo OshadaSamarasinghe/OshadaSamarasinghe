@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love to watch movies and resd books
 -->
-<h1 align="center">Hi 👋, I'm Oshada Samarasinghe</h1>
-<h3 align="center">🔭 I’m a Software Engineering Undergraduate at Plymouth University UK<br>⚡ Fun fact: I love to watch movies and resd books</h3>
+<h1 align="center">Hi 👋![image](https://user-images.githubusercontent.com/99501320/221367106-a679c76c-9579-42b1-8518-05391c43d4ce.png), I'm Oshada Samarasinghe</h1>
+<h3 align="center">🔭 I’m a Software Engineering Undergraduate at Plymouth University UK<br>⚡
+ Fun fact: I love to watch movies and resd books</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oshadasamarasinghe" alt="oshadasamarasinghe" /></a> </p>
 
