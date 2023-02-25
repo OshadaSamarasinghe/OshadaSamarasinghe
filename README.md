@@ -12,12 +12,18 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I love to watch movies and resd books
+- ⚡ Fun fact: 
 -->
-<h1 align="center">Hi 👋![image](https://user-images.githubusercontent.com/99501320/221367106-a679c76c-9579-42b1-8518-05391c43d4ce.png), I'm Oshada Samarasinghe</h1>
-<h3 align="center">🔭 I’m a Software Engineering Undergraduate at Plymouth University UK<br>⚡
- Fun fact: I love to watch movies and resd books</h3>
+<h1 align="center">Hi 👋,
+ I'm Oshada Samarasinghe</h1>
 
+<!-- <h2>Abouth me</h2> -->
+<ul type="none">
+ <li>🔭 I’m a Software Engineering Undergraduate at Plymouth University UK</li>
+ <li>📖 I studied at Kingswood College Kandy</li>
+ <li></li>
+ <li>⚡Fun fact: I love to watch movies and read books</li>
+</ul><br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oshadasamarasinghe" alt="oshadasamarasinghe" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
