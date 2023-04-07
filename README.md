@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/ovsamarasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ovsamarasinghe" height="30" width="40" /></a>&nbsp&nbsp
 <a href="https://www.linkedin.com/in/oshada-samarasinghe-34530121b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oshada samarasinghe" height="30" width="40" /></a>&nbsp&nbsp
 <a href="https://instagram.com/oshada_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oshada_s" height="30" width="40" /></a>&nbsp&nbsp
-  <a href="https://stackoverflow.com/users/21286957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21286957" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/21286957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21286957" height="30" width="40" /></a>&nbsp&nbsp
 <a href="https://medium.com/@oshadasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@oshadasa" height="30" width="40" /></a>
 </p>
 
