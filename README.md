@@ -22,7 +22,8 @@ Here are some ideas to get you started:
  <li>🔭 I’m a Software Engineering Undergraduate at Plymouth University UK</li>
  <li>📖 I studied at Kingswood College Kandy</li>
  <li></li>
- <li>⚡Fun fact: I love to watch movies and read books</li>
+ <li>⚡Fun fact: I love to watch movies</li>
+ <li>📔 I like to read books in my free time</li>
 </ul><br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oshadasamarasinghe" alt="oshadasamarasinghe" /></a> </p>
 
