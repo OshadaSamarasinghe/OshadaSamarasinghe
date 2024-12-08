@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 <ul type="none">
  <li>🔭 I’m a Software Engineering Graduate at Plymouth University UK</li>
  <li>📖 I studied at Kingswood College Kandy</li>
- <li></li>
  <li>⚡Fun fact: I love to watch movies</li>
  <li>📔 I like to read books in my free time</li>
 </ul><br>
